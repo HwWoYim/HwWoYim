@@ -1,8 +1,8 @@
 ### Hi, hello 👋
 <p align="center"><a href="https://blog.naver.com/yimhw77/"><img src="https://img.shields.io/badge/My tech blog-A9BCF5?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=https://blog.naver.com/yimhw77/"/></a>
-
+<div align="center">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HwWoYim&show_icons=true&theme=radical)
-
+</div>
  <div align="center">
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
