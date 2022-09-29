@@ -1,5 +1,5 @@
 ### Hi, hello 👋
-<p align="center"><a href="https://developer-sudal.tistory.com/"><img src="https://img.shields.io/badge/My tech blog-A9BCF5?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=https://blog.naver.com/yimhw77/"/></a>
+<p align="center"><a href="https://blog.naver.com/yimhw77/"><img src="https://img.shields.io/badge/My tech blog-A9BCF5?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=https://blog.naver.com/yimhw77/"/></a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HwWoYim&show_icons=true&theme=radical)
 
